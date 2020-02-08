@@ -11,14 +11,14 @@
 
 * ```apt update```
 * ```apt install git php openssh curl -y```
-* ```git clone https://github.com/htr-tech/zphisher```
+* ```git clone https://github.com/ExpertAnonymous/zphisher```
 * ```cd zphisher```
 * ```chmod +x zphisher.sh```
 * ```bash zphisher.sh```
 
 ### Or ; Use Single Command
 ```
-apt update && apt install git php curl openssh -y && git clone https://github.com/htr-tech/zphisher && cd zphisher && chmod +x zphisher.sh && bash zphisher.sh
+apt update && apt install git php curl openssh -y && git clone https://github.com/ExpertAnonymous/zphisher && cd zphisher && chmod +x zphisher.sh && bash zphisher.sh
 ```
 #
 ## [+] Credits :
