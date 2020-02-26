@@ -39,4 +39,4 @@ apt update && apt install git php curl openssh -y && git clone https://github.co
 ### [~] [Github](https://github.com/ExpertAnonymous/)
 ### [~] [Twitter](https://twitter.com/ExpertAnonymous/)
 #
-##Youtube channel=Expert Anonymous
+#Youtube channel= https://youtube.com/ExpertAnonymousOfficial
